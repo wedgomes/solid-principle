@@ -1,6 +1,6 @@
 package br.com.udemy.srp;
 
-//Single Responsibility Principle
+//Single Responsibility Principle - Principio da Responsabilidade ùnica
 
 public class Main {
         public static void main(String[] args) {
